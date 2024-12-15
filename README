@@ -1,0 +1,9 @@
+### Backend for File Upload
+
+For Running the project locally
+1. Go to Project Directory
+2. npm i
+3. node app.js
+4. It will run on port 5000
+5. For demo purpose only support 3 users ['username1','password1'], ['username2','password2'], ['username3','password3'])
+6. Project uses multer to locally store files
